@@ -1,0 +1,2 @@
+all django and react steps will be here
+first make 2 diferrent folder for your project 
